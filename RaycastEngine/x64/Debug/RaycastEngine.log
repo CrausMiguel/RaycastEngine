@@ -1,0 +1,7 @@
+﻿  Application.cpp
+C:\Users\Laboratorio\Downloads\RaycastEngine\RaycastEngine\src\Application.cpp(14,17): warning C4244: 'argumento': conversão de 'float' para 'GLint', possível perda de dados
+C:\Users\Laboratorio\Downloads\RaycastEngine\RaycastEngine\src\Application.cpp(14,13): warning C4244: 'argumento': conversão de 'float' para 'GLint', possível perda de dados
+C:\Users\Laboratorio\Downloads\RaycastEngine\RaycastEngine\src\Application.cpp(54,26): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+C:\Users\Laboratorio\Downloads\RaycastEngine\RaycastEngine\src\Application.cpp(54,21): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+C:\Users\Laboratorio\Downloads\RaycastEngine\RaycastEngine\src\Application.cpp(54,16): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+  RaycastEngine.vcxproj -> C:\Users\Laboratorio\Downloads\RaycastEngine\x64\Debug\RaycastEngine.exe
